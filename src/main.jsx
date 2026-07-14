@@ -33,7 +33,7 @@ import "./help.css";
 import "./selector-debug.css";
 import "./visual-selector.css";
 import "./apex-theme.css";
-import apexLogo from "./assets/apexflow-logo.png";
+import apexLogo from "./assets/apextract-logo.png";
 const seed = [
   [
     "Saison 1",

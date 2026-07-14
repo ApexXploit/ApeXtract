@@ -1,7 +1,7 @@
 # ApeXtract
 
 <p align="center">
-  <img src="src/assets/apexflow-logo.png" alt="Logo ApeXtract" width="300">
+  <img src="src/assets/apextract-logo.png" alt="Logo ApeXtract" width="300">
 </p>
 
 Plateforme locale de web scraping, crawling et data intelligence. ApeXtract
@@ -16,7 +16,7 @@ nettoyage et export des données dans une même application.
     <th>Logo de l'auteur</th>
   </tr>
   <tr>
-    <td align="center"><img src="src/assets/apexflow-logo.png" alt="ApeXtract" width="260"></td>
+    <td align="center"><img src="src/assets/apextract-logo.png" alt="ApeXtract" width="260"></td>
     <td align="center"><img src="src/assets/apexploit-author-logo.png" alt="ApeXploit" width="260"></td>
   </tr>
   <tr>
