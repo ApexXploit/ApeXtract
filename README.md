@@ -42,4 +42,4 @@ ApeXtract inclut une vérification optionnelle de `robots.txt`. Utilisez l’out
 
 ## Identité
 
-L’araignée cybernétique représente le web crawling. Son abdomen en forme de base de données et ses connexions aux nœuds symbolisent l’extraction et la circulation des données.
+Le logo associe l’identité cyber d’ApeXploit aux fonctions d’ApeXtract : les pattes mécaniques évoquent le web crawling, tandis que le globe, le document et la base de données représentent la collecte, la structuration et l’export des données.
